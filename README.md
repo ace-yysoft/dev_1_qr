@@ -1,5 +1,3 @@
-1. 메모장 실행
-2. 아래 내용 복사/붙여넣기:
 
 # QR Code Generator and Validator
 
